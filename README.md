@@ -1,5 +1,5 @@
-# Javascript-All-You-Need-to-Know
-![alt text](image.png)
+# Javascript All You Need to Know
+![Cover Image](image.png)
 
 https://twinklecats.thinkific.com/courses/jayntok
 
